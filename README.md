@@ -1,6 +1,7 @@
-# AKQ Poker Trainer
+# AKQ Poker App
 
-React + TypeScript + Tailwind training app for AKQ Poker.
+React + TypeScript + Tailwind app for AKQ Poker.
+
 
 ## Run
 
